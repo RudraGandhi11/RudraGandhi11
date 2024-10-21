@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RudraGandhi11
+- 👀 I’m interested in full-stack development using MERN stack
+- 🌱 I’m currently learning about building real time applications
+- 📫 How to reach me 📧 gandhirudra1111@gmail.com
+- 😄 Pronouns: He/Him
